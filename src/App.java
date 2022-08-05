@@ -41,7 +41,7 @@ public class App {
             minProduct = Math.min(minProduct, productsQuantity[index]);
           }
 
-          //Corregir con el indice del arreglo de codigos
+          //All the functionalities are included, it is necessary to correct the index of the code fix
 
           System.out.println("Product code with the highest number of units: " + maxProduct);
           System.out.println("Product code with the least number of units:: " + minProduct);
